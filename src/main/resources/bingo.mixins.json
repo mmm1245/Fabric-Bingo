@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "com.github.mmm1245.fabricBingo.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "com.github.mmm1245.fabricBingo.mixin.ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
