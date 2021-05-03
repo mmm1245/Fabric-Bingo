@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "com.github.mmm1245.fabricBingo.mixin.ExampleMixin"
+    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
